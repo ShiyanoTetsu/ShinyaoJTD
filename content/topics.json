@@ -4,5 +4,12 @@
     "title": "に vs で — направление и место действия",
     "particles": ["に","で"],
     "lesson": { "book": "MNN I", "unit": 6 }
+  },
+
+  {
+    "code": "wa-vs-ga",
+    "title": "は vs が — тема и подлежащее",
+    "particles": ["は","が"],
+    "lesson": { "book": "MNN I", "unit": 2 }
   }
 ]
